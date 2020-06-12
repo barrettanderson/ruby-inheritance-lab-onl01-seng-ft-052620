@@ -1,5 +1,5 @@
 
-# class Teacher < User
+class Teacher < User
 
 class Teacher
 
